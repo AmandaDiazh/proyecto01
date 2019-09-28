@@ -1,0 +1,11 @@
+/*selector universal/*/
+* {
+    color:red;
+
+}
+h1{
+    text-transform: uppercase;
+}
+h3{
+    color:blue;
+}
